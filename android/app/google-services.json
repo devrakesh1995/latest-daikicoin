@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848730135397",
+    "project_id": "powerofonenews-ae2d4",
+    "storage_bucket": "powerofonenews-ae2d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848730135397:android:6925af2a9b06c31bc71f8c",
+        "android_client_info": {
+          "package_name": "com.daikicoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848730135397-09krotgjomru4beb592pmqjsmi7cd5fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_2W335rhtaOl2xNmy4Cux6jIVfFCdy-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848730135397-09krotgjomru4beb592pmqjsmi7cd5fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
